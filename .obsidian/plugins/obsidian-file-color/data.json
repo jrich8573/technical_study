@@ -1,0 +1,36 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "l-PmvcdDbbcCq6pdUw3up",
+      "name": "Agents",
+      "value": "#1345b9"
+    },
+    {
+      "id": "5FZjYmdS21o4pTREHWmsu",
+      "name": "DataBricks",
+      "value": "#c20505"
+    },
+    {
+      "id": "TGpZ1-YDV5Ez51kTHYjW8",
+      "name": "Financial Model",
+      "value": "#a30ac2"
+    },
+    {
+      "id": "wq8LsyNkIFt2ROC3KLBsM",
+      "name": "Ideation",
+      "value": "#085a02"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Progress",
+      "color": "l-PmvcdDbbcCq6pdUw3up"
+    },
+    {
+      "path": "Study",
+      "color": "5FZjYmdS21o4pTREHWmsu"
+    }
+  ]
+}
